@@ -1,4 +1,4 @@
-# oura-hr
+# 💍 Oura Heart Rate ♥
 
 A small CLI tool that fetches your current heart rate from the [Oura Ring API](https://cloud.ouraring.com/docs) and prints it to stdout.
 
